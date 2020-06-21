@@ -26,7 +26,8 @@ git clone https://github.com/lixiang-ucas/PCNet.git
 
 ```
 ## Dataset
-* Download the dataset from 
+* Download the dataset from http://faust.is.tue.mpg.de/
+
 run notebook file [Data]Faust-FeastNet.ipynb to prepare the tfrecords
 
 
